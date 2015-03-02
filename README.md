@@ -1,4 +1,4 @@
-# JurassicJs
+# Jurassic
 Jurassic, MS-PL , from codeplex, 
 https://jurassic.codeplex.com/
 
